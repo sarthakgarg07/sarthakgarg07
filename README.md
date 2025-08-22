@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Sarthak Garg  
+Sarthak Garg  
 
 🎯 **Motivated Computer Science Student | Backend Developer | AI/ML Enthusiast**  
 📍 India | 📧 [garsar07@gmail.com](mailto:garsar07@gmail.com) | 🌐 [LinkedIn](https://linkedin.com/in/garsar07) | 💻 [GitHub](https://github.com/sarthakgarg07)  
