@@ -70,11 +70,4 @@ I enjoy solving real-world problems at the intersection of **AI + scalable backe
 
 ---
 
-## 📊 GitHub Stats  
-
-![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakgarg07&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakgarg07&layout=compact&theme=radical)    
-
----
-
 ✨ _Always open to exciting projects, collaborations, and internships!_  
