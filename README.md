@@ -1,99 +1,118 @@
-<h1 align="center">Hi 👋, I'm Sarthak Garg</h1>
-<h3 align="center">Backend Engineer • Applied AI Developer • LLM Systems Builder</h3>
+<h1 align="center">Sarthak Garg</h1>
+<h3 align="center">Backend Engineer • Applied AI Systems • LLM Infrastructure</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Backend+Engineering+Enthusiast;Applied+AI+%7C+LLM+Systems;RAG+Pipelines+%7C+LangGraph;Cloud+Native+Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Production+Grade+LLM+Systems;Scalable+Backend+Architecture;RAG+%7C+LangGraph+%7C+Vertex+AI;BigQuery+Powered+Data+Pipelines" />
 </p>
 
 ---
 
-## 🚀 Currently Working At
+## 🚀 Currently
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=FF00FF&center=true&vCenter=true&width=900&lines=AI%2FML+Intern+%40+Times+Network+(Times+Now);Building+LLM-Powered+ORM+Systems;BigQuery+%2B+Vertex+AI+Pipelines;RAG-Based+WhatsApp+AI+Agents" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=FF00FF&center=true&vCenter=true&width=900&lines=AI%2FML+Intern+%40+Times+Network;Designing+Multi-Agent+LLM+Workflows;BigQuery+%2B+Vertex+AI+Production+Pipelines" />
 </p>
 
 ---
 
-## 👨‍💻 Experience
+# 💼 Experience
 
-### 🏢 Times Network — AI/ML Intern (Dec 2025 – Present)
-- Built an end-to-end **Online Reputation Management** system using LangGraph multi-agent architecture  
-- Designed scalable **BigQuery + Vertex AI** workflows for sentiment analysis & automated responses  
-- Fine-tuned LLMs and built RAG-based WhatsApp AI chatbots  
+### <img src="https://img.icons8.com/color/28/google-news.png"/> Times Network — AI/ML Intern  
+**Dec 2025 – Present**
 
-### 🏦 Sapphire Broking — Backend Intern (Sep 2025 – Nov 2025)
-- Developed scalable backend services using **TypeScript, Go & PostgreSQL**  
-- Integrated secure payment gateway systems with NTT Data Services  
-- Optimized APIs for high-performance trading workflows  
-
-### 💻 Celebal Technologies — Software Engineer Intern (May 2025 – Jul 2025)
-- Built production-ready REST APIs using **Node.js & Express**  
-- Contributed to Agile sprints & backend architecture discussions  
-
-### 🤖 Tellic Digital (UK) — ML Developer Intern (Jun 2024 – Jul 2024)
-- Developed a RAG-based retrieval system using **Redis + Pinecone**  
-- Improved search accuracy by 15%  
+- Architected an end-to-end **LLM-powered Online Reputation Management system**
+- Designed scalable **BigQuery data pipelines** for real-time sentiment & prioritization
+- Built production **Vertex AI + LangGraph multi-agent workflows**
+- Deployed RAG-based WhatsApp AI agents with CRM integration
 
 ---
 
-# 🛠 Tech Stack
+### <img src="https://img.icons8.com/color/28/combo-chart--v1.png"/> Sapphire Broking — Backend Intern  
+**Sep 2025 – Nov 2025**
+
+- Developed high-performance backend services using **TypeScript, Go, PostgreSQL**
+- Integrated secure payment gateway infrastructure (NTT Data)
+- Optimized API & database performance for trading systems
+
+---
+
+### <img src="https://img.icons8.com/color/28/source-code.png"/> Celebal Technologies — Software Engineer Intern  
+**May 2025 – Jul 2025**
+
+- Built scalable REST APIs using **Node.js & Express**
+- Contributed to backend architecture design & sprint execution
+
+---
+
+### <img src="https://img.icons8.com/color/28/artificial-intelligence.png"/> Tellic Digital (UK) — ML Developer Intern  
+**Jun 2024 – Jul 2024**
+
+- Developed RAG retrieval engine integrating **Redis + Pinecone**
+- Improved search accuracy by 15% via embedding optimization
+
+---
+
+# 🛠 Technical Stack
 
 ## 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=yellow)
+![Java](https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=orange)
+![C++](https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus&logoColor=blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=blue)
 
 ---
 
-## ⚙️ Backend & APIs
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch)
+## ⚙️ Backend & Systems
+![NodeJS](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=green)
+![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=green)
+![Redis](https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=red)
 
 ---
 
-## 🤖 AI / LLM Systems
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF4B4B?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+## 🤖 AI / LLM Infrastructure
+![LangChain](https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge)
+![RAG Systems](https://img.shields.io/badge/RAG-0F172A?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-0F172A?style=for-the-badge&logo=pytorch&logoColor=orange)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0F172A?style=for-the-badge&logo=tensorflow&logoColor=orange)
 
 ---
 
-## ☁️ Cloud & Data Engineering
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+## ☁️ Cloud & Data (Custom Highlighted)
+
+![BigQuery](https://img.shields.io/badge/BigQuery-001F3F?style=for-the-badge&logo=googlebigquery&logoColor=00BFFF)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-002B5B?style=for-the-badge&logo=googlecloud&logoColor=7FDBFF)
+![GCP](https://img.shields.io/badge/GCP-111827?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=orange)
+![Azure](https://img.shields.io/badge/Azure-111827?style=for-the-badge&logo=microsoftazure&logoColor=blue)
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthakgarg07&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakgarg07&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthakgarg07&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakgarg07&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
-## 🧠 Terminal
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sarthakgarg07/sarthakgarg07/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 🧠 Systems Mindset
 
 ```bash
-$ whoami
-Sarthak Garg — Backend Engineer & Applied AI Developer
+Design > Scale > Optimize > Automate
 
-$ current_stack
-LangGraph | BigQuery | Vertex AI | RAG | Scalable APIs
-
-$ mission
-Build production-grade intelligent systems at scale.
+LLM Agents
+Distributed Data Pipelines
+Cloud Native Architecture
+Production Reliability
