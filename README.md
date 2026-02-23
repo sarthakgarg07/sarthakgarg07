@@ -1,73 +1,75 @@
-Sarthak Garg  
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Sarthak Garg</h1>
+<h3 align="center">Backend Engineer • Applied AI Developer • LLM Systems Builder</h3>
 
-🎯 **Motivated Computer Science Student | Backend Developer | AI/ML Enthusiast**  
-📍 India | 📧 [garsar07@gmail.com](mailto:garsar07@gmail.com) | 🌐 [LinkedIn](https://linkedin.com/in/garsar07) | 💻 [GitHub](https://github.com/sarthakgarg07)  
-
----
-
-## 🚀 About Me  
-I am a **Computer Science undergrad (B.Tech, 2022–2026, Bennett University, SGPA 8.2)** passionate about building scalable backend systems and AI-driven solutions. My experience spans:  
-
-- ⚡ Backend Development with **Node.js, Express, Flask**  
-- 🤖 AI/ML using **Python, PyTorch, TensorFlow, NLP**  
-- ☁️ Cloud Platforms: **AWS & Azure**  
-- 🗄️ Databases: **MongoDB, Redis, SQL**  
-- 🛠️ Skilled in **DSA, Java, C++, TypeScript**  
-
-I enjoy solving real-world problems at the intersection of **AI + scalable backend engineering**.  
+<p align="center">
+  <a href="https://github.com/sarthakgarg07">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Engineering+Enthusiast;Applied+AI+%7C+LLM+Systems;RAG+Pipelines+%7C+LangGraph;Cloud+Native+Builder" />
+  </a>
+</p>
 
 ---
 
-## 🧑‍💻 Experience  
+## 🚀 About Me
 
-- **Software Engineer Intern — Celebal Technologies (May–July 2025)**  
-   🔹 Developed & deployed backend APIs using **Node.js & Express**  
-   🔹 Hands-on experience in **SQL, backend data operations, Agile collaboration**  
+🎓 B.Tech Computer Science (2022–2026)  
+💡 Specializing in Backend Engineering & Applied AI  
+🔍 Passionate about building scalable APIs & production-grade LLM systems  
+☁️ Cloud-native architecture enthusiast  
 
-- **RAG System Developer Intern — Telic Digital, UK (June–July 2024)**  
-   🔹 Built a **Retrieval-Augmented Generation (RAG) system** integrating LLMs with **Redis & Pinecone**  
-   🔹 Improved search accuracy & retrieval efficiency by **15%**  
-   🔹 Deployed solutions on **AWS & Azure**, used **NLP techniques (NER, QA)**  
-
----
-
-## 📂 Projects  
-
-### 🔍 Intelligent Content Retrieval System  
-- Extracted & processed text from **300+ page textbooks**  
-- Implemented **SBERT embeddings**, recursive clustering with **Gaussian Mixture Models (GMM)**  
-- Improved information retrieval efficiency & accuracy  
-
-### 💬 Real-Time Chat Application  
-- Backend engineered with **Node.js, Express, Socket.IO**  
-- Secure **JWT-based authentication** and **REST APIs**  
-- **MongoDB persistence** + scalable chatroom architecture  
+- 🔭 Currently working on **LLM-powered ORM systems**
+- 🤖 Building **RAG-based AI agents**
+- 🌱 Exploring advanced **LLM fine-tuning & alignment**
+- ⚡ Love designing scalable backend systems
 
 ---
 
-## 🏆 Achievements  
-- 🥇 Winner — **Industry Hackathon 2024 (Healthcare Category)**, Bennett University  
-- 🥇 Winner — **Smart India Hackathon 2024**, College Level  
-- 🥇 Winner — **AI Innovation Hackathon 2023**, Inter-University  
-- 🧪 Selected — **National Child Science Congress 2020**, Govt. of India  
-- 🎸 Certified Guitarist — **Trinity College London (2018)**  
+## 🛠 Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## ⚙️ Tech Stack  
-
-**Languages & Frameworks:**  
-`Python` `Java` `C++` `Node.js` `Express` `Flask` `TypeScript`  
-
-**AI/ML Tools:**  
-`PyTorch` `TensorFlow` `NLP` `SBERT`  
-
-**Cloud & Databases:**  
-`AWS` `Azure` `MongoDB` `SQL` `Redis`  
-
-**Others:**  
-`REST APIs` `Socket.IO` `DSA` `Agile`  
+### ⚙️ Backend & Frameworks
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 
 ---
 
-✨ _Always open to exciting projects, collaborations, and internships!_  
+### 🤖 AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF4B4B?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+
+---
+
+### ☁️ Cloud & Data
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery)
+![VertexAI](https://img.shields.io/badge/VertexAI-4285F4?style=for-the-badge)
+
+---
+
+## 🧠 What I Build
+
+```txt
+🔹 Scalable Backend APIs
+🔹 RAG Pipelines
+🔹 Multi-Agent LLM Systems
+🔹 AI Chatbots (WhatsApp / CRM integrated)
+🔹 High-Performance Trading Backends
+🔹 Hierarchical Retrieval Systems
