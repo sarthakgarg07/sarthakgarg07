@@ -1,75 +1,98 @@
-<!-- Profile Header -->
+<!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Sarthak Garg</h1>
 <h3 align="center">Backend Engineer • Applied AI Developer • LLM Systems Builder</h3>
 
 <p align="center">
-  <a href="https://github.com/sarthakgarg07">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Engineering+Enthusiast;Applied+AI+%7C+LLM+Systems;RAG+Pipelines+%7C+LangGraph;Cloud+Native+Builder" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Backend+Engineering+Enthusiast;Applied+AI+%7C+LLM+Systems;RAG+Pipelines+%7C+LangGraph;Cloud+Native+Builder" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Currently Working At
 
-🎓 B.Tech Computer Science (2022–2026)  
-💡 Specializing in Backend Engineering & Applied AI  
-🔍 Passionate about building scalable APIs & production-grade LLM systems  
-☁️ Cloud-native architecture enthusiast  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=F700FF&center=true&vCenter=true&width=600&lines=AI%2FML+Intern+%40+Times+Network;Building+LLM+Powered+ORM+Systems;Designing+RAG+Based+AI+Agents" />
+</p>
 
-- 🔭 Currently working on **LLM-powered ORM systems**
-- 🤖 Building **RAG-based AI agents**
-- 🌱 Exploring advanced **LLM fine-tuning & alignment**
-- ⚡ Love designing scalable backend systems
+---
+
+## 💼 Experience
+
+### 🏢 Times Network (Times Now) — AI/ML Intern  
+*Dec 2025 – Present*
+
+- Built an end-to-end **Online Reputation Management system** using LangGraph-based multi-agent architecture  
+- Designed scalable **BigQuery + Vertex AI pipelines** for sentiment analysis & automated response generation  
+- Fine-tuned LLMs for brand-specific tone control and deployed RAG-based WhatsApp AI chatbots  
+
+---
+
+### 🏦 Sapphire Broking — Backend Intern  
+*Sep 2025 – Nov 2025*
+
+- Developed scalable backend services using **TypeScript, Go & PostgreSQL**  
+- Integrated secure payment gateway systems with NTT Data Services  
+- Optimized trading APIs & database queries for high-performance workflows  
+
+---
+
+### 💻 Celebal Technologies — Software Engineer Intern  
+*May 2025 – Jul 2025*
+
+- Built and deployed production-ready **REST APIs** using Node.js & Express  
+- Contributed to Agile sprints, backend architecture discussions & peer code reviews  
+
+---
+
+### 🤖 Tellic Digital (UK) — Machine Learning Developer Intern  
+*Jun 2024 – Jul 2024*
+
+- Developed a **RAG-based retrieval engine** integrating LLMs with Redis & Pinecone  
+- Improved search accuracy by 15% using optimized embedding + indexing strategies  
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+`Python` `Java` `C++` `TypeScript` `SQL`
+
+### ⚙️ Backend
+`Node.js` `Express.js` `Django` `Flask`  
+`MongoDB` `PostgreSQL` `Redis`  
+`REST APIs`
+
+### 🤖 AI / LLM
+`PyTorch` `TensorFlow`  
+`LangChain` `LangGraph`  
+`RAG Systems` `LLM Fine-Tuning`  
+`Pinecone` `Vertex AI`
+
+### ☁️ Cloud
+`AWS` `Azure` `GCP` `BigQuery`
 
 ---
 
-### ⚙️ Backend & Frameworks
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthakgarg07&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakgarg07&theme=tokyonight" />
+</p>
 
 ---
 
-### 🤖 AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF4B4B?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/garsar07">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:garsar07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-### ☁️ Cloud & Data
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery)
-![VertexAI](https://img.shields.io/badge/VertexAI-4285F4?style=for-the-badge)
-
----
-
-## 🧠 What I Build
-
-```txt
-🔹 Scalable Backend APIs
-🔹 RAG Pipelines
-🔹 Multi-Agent LLM Systems
-🔹 AI Chatbots (WhatsApp / CRM integrated)
-🔹 High-Performance Trading Backends
-🔹 Hierarchical Retrieval Systems
+⭐ Building intelligent backend systems at the intersection of AI & scale.
