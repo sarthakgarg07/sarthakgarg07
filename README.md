@@ -17,7 +17,7 @@
 
 # 💼 Experience
 
-### <img src="https://img.icons8.com/color/28/google-news.png"/> Times Network — AI/ML Intern  
+### <img src="https://img.icons8.com/color/28/google-news.png"/> Times Network — AI/ML   
 **Dec 2025 – Present**
 
 - Architected an end-to-end **LLM-powered Online Reputation Management system**
